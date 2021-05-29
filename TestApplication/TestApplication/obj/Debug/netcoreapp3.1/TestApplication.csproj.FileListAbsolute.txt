@@ -1,0 +1,12 @@
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+C:\Users\ALKAN\source\repos\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
